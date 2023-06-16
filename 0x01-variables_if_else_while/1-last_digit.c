@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Prints the last digit of a ramdomly generated number
- * and whether it is geater than 5, less than 6, or 0.
- * Return: Always 0 (Success)
- */
+*main - Prints the last digit of a ramdomly generated number
+*and whether it is geater than 5, less than 6, or 0.
+*Return: Always 0 (Success)
+*/
 
 int main(void)
 {
