@@ -9,7 +9,7 @@
  * Return: Aabsolute value
  */
 
-int _abs(int 1)
+int _abs(int i)
 {
 	if (i >= 0)
 	{
