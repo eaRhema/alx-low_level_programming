@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_to _98 - print all natural numbers from n to 98
  * @n: the number to start printing from
